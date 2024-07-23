@@ -6,7 +6,7 @@ const [currentCommitSha] = process.argv.slice(2)
 
 const baseUrl =
 	process.env.GITHUB_REF_NAME === 'dev'
-		? 'https://kcd-staging.fly.dev'
+		? 'https://solofounders.fly.dev'
 		: 'https://kentcdodds.com'
 
 async function go() {
