@@ -1,0 +1,128 @@
+# Each person can have: github, twitter, dribbble, instagram, website, or linkedin
+
+# Template:
+
+# - name: Name
+#   cloudinaryId: cloudinary-path (leave blank if you don't have it)
+#   role: some role
+#   description: >-
+#     Summary of what they did here
+#   github: https://github.com/username
+#   x: https://x.com/username
+#   website: https://example.com
+#   dribbble: https://dribbble.com/username
+#   instagram: https://www.instagram.com/username
+#   linkedin: https://www.linkedin.com/in/username
+
+- name: Kent C. Dodds
+  cloudinaryId: kent/profile
+  role: A bit of everything
+  description: >-
+    Hi! It's me. Yeah, I worked on this project too. I was the "client" for
+    egghead and I implemented the vast majority of the code on this site and
+    made architectural decisions. I'm also the long-term maintainer.
+  github: https://github.com/kentcdodds
+  x: https://x.com/kentcdodds
+
+- name: Stephan Meijer
+  cloudinaryId: kentcdodds.com/content/credits/stephan
+  role: Design Implementation
+  description: >-
+    Took the designs and implemented them using Tailwind. Did a terrific job of
+    implementing the designs and coming up with solutions when unexpected
+    requirements popped up.
+  website: http://meijer.ws
+  github: https://github.com/smeijer
+  x: https://x.com/meijer_s
+
+- name: Gil Huybrecht
+  cloudinaryId: kentcdodds.com/content/credits/gil
+  role: Design
+  description: >-
+    Responsible for the overall web design and the information architecture.
+    Kent and Gil worked together to get the best possible structure for the
+    website and visual design.
+  website: https://www.gilhuybrecht.com
+  dribbble: https://dribbble.com/gilhuybrecht
+  x: https://x.com/gilhuybrecht
+  instagram: https://www.instagram.com/gil.huybrecht
+
+- name: Daniel Miller
+  cloudinaryId: kentcdodds.com/content/credits/daniel
+  role: Project Manager
+  description: >-
+    Daniel managed the redesign project, acting as phone switch operator  and
+    document creator.
+  website: https://www.daniel.industries/
+  github: https://github.com/dealingwith
+
+- name: Kevin Winzeler
+  cloudinaryId: kentcdodds.com/content/credits/kevin
+  role: Video Production
+  description: >-
+    Kevin directed, shot, and edited Kent's bio video.
+  website: https://www.kevinwinzeler.com/
+
+- name: Haze Provinsal
+  cloudinaryId: kentcdodds.com/content/credits/haze
+  role: Video Editing
+  description: >-
+    Haze did additional video editing.
+  x: https://x.com/hazeprovinsal
+
+- name: Cree Provinsal
+  cloudinaryId: kentcdodds.com/content/credits/cree
+  role: Podcast Production
+  description: >-
+    Cree helped produce and edit the new season of Chats with Kent.
+  x: https://x.com/CProvinsal
+
+- name: Maggie Appleton
+  cloudinaryId: kentcdodds.com/content/credits/maggie
+  role: Art Direction
+  description: >-
+    Maggie led the production of illustrations for the site as well as  the
+    overall design.
+  website: https://maggieappleton.com/
+  x: https://x.com/Mappletons
+
+- name: Jhey Tompkins
+  cloudinaryId: kentcdodds.com/content/credits/jhey
+  role: Motion Wizard
+  description: >-
+    Jhey worked on making using the site visually interesting by adding motion.
+    In particular he built the audio recorder visualizer and the parallax
+    experience on the homepage.
+  github: https://github.com/jh3y
+  x: https://x.com/jh3yy
+  website: https://jhey.dev/links
+  twitch: https://twitch.tv/jh3yy
+  codepen: https://codepen.io/jh3y
+
+- name: Mohamed Chahin
+  cloudinaryId: kentcdodds.com/content/credits/mohamed
+  role: Illustration
+  description: >-
+    All these beautiful illustrations you see on the website were created by
+    Mohamed.
+  behance: https://www.behance.net/MChahin
+  x: https://x.com/beastochahin
+  dribbble: https://dribbble.com/MohChahin
+
+- name: Sean Olszewski
+  cloudinaryId: kentcdodds.com/content/credits/sean-olszewski
+  role: Audio Magic
+  description: >-
+    Sean worked on the audio for the launch video as well as the Chats with Kent
+    podcast.
+  x: https://x.com/__chefski__
+  github: https://github.com/SeanROlszewski
+
+- name: Daniel Nisttahuz
+  cloudinaryId: kentcdodds.com/content/credits/daniel-nisttahuz
+  role: Launch Video
+  description: >-
+    Daniel was the guy behind the amazing launch video.
+  x: https://x.com/dnisttahuz
+  linkedin: https://www.linkedin.com/in/danielnisttahuz
+  website: https://www.dniel.io/
