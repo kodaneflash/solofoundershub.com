@@ -87,11 +87,11 @@ export default function IndexRoute() {
 	return (
 		<div>
 			<HeroSection
-				title="Helping people make the world a better place through quality software."
+				title="Helping solo entrepreneurs and aspiring founders start and grow their own online businesses."
 				imageBuilder={kodyFlying}
 				imageSize="giant"
 				arrowUrl="#intro"
-				arrowLabel="Learn more about Kent"
+				arrowLabel="Learn more about SoloFoundersHub"
 				action={
 					<div className="mr-auto flex flex-col gap-4">
 						<ButtonLink to="/blog" variant="primary" prefetch="intent">

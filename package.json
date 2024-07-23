@@ -8,11 +8,11 @@
   "imports": {
     "#*": "./*"
   },
-  "description": "A remix version of kentcdodds.com",
+  "description": "A remix version of solofoundershub.com",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kentcdodds/kentcdodds.com.git"
+    "url": "git+https://github.com/kodaneflash/solofoundershub.com.git"
   },
   "keywords": [],
   "author": "Kent C. Dodds <me@kentcdodds.com> (https://kentcdodds.com/)",

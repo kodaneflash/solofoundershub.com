@@ -112,8 +112,7 @@ function ProblemSolutionSection({
 			<div className="col-span-full lg:col-span-5 lg:col-start-7">
 				<H2 variant="secondary" as="p">
 					{`
-            Well, you're in the right place. My website is your one stop shop
-            for everything you need to build JavaScript apps.
+           SoloFoundersHub is your comprehensive resource hub for launching and growing your online business. Access resources, blogs, courses, podcasts, and join a supportive Discord community to connect with fellow solopreneurs.
           `}
 				</H2>
 			</div>
@@ -133,31 +132,31 @@ function ProblemSolutionSection({
 					<H3>Educational blog</H3>
 
 					<Paragraph className="mt-8">
-						{`My `}
+						{`Over `}
 						<strong>{blogPostCount}</strong>
-						{` blog posts (and counting) have been `}
+						{` insightful blog posts (and counting) have been `}
 						<Link prefetch="intent" to="/teams#read-rankings">
 							read
 						</Link>
-						{` ${totalBlogReads} times by ${totalBlogReaders} people. There you'll find blogs about `}
+						{` ${totalBlogReads} times by ${totalBlogReaders} people. and valued by a vast audience. Explore content covering topics such as `}
 						<Link prefetch="intent" to="/blog?q=javascript">
-							JavaScript
+						entrepreneurship
 						</Link>
 						{`, `}
 						<Link prefetch="intent" to="/blog?q=typescript">
-							TypeScript
+							marketing and product-market fit
 						</Link>
 						{`, `}
 						<Link prefetch="intent" to="/blog?q=react">
-							React
+						case studies of successful online founders
 						</Link>
 						{`, `}
 						<Link prefetch="intent" to="/blog?q=testing">
-							Testing
+						validated business ideas and market research
 						</Link>
 						{`, `}
 						<Link prefetch="intent" to="/blog?q=career">
-							your career
+						SaaS opportunities
 						</Link>
 						{`, `}
 						<Link prefetch="intent" to="/blog">

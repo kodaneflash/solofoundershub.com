@@ -87,10 +87,10 @@ function SitemapSection() {
 function AboutSection() {
 	return (
 		<div>
-			<H4 as="div">Kent C. Dodds</H4>
+			<H4 as="div">Solo Founders Hub</H4>
 
 			<p className="text-secondary mt-6 max-w-md text-2xl">
-				Full time educator making our world better
+			Dedicated to empowering entrepreneurs thive in the online business world
 			</p>
 
 			<div className="text-secondary mt-6 flex items-center justify-between gap-4 xl:flex-col xl:items-start">

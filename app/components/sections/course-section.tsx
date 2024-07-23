@@ -26,8 +26,8 @@ function CourseSection() {
 				</div>
 				<div className="col-span-full lg:col-span-6">
 					<CourseCard
-						title="Epic React"
-						description="The most comprehensive guide for pros."
+						title="Organic Growth Academy"
+						description="Learn how to drive organic growth in your business."
 						imageBuilder={images.courseEpicReact}
 						courseUrl="https://epicreact.dev"
 					/>
@@ -35,8 +35,8 @@ function CourseSection() {
 
 				<div className="col-span-full mt-12 lg:col-span-6 lg:mt-0">
 					<CourseCard
-						title="Testing JavaScript"
-						description="Learn smart, efficient testing methods."
+						title="Micro Saas Academy"
+						description="Your fast track to Micro SaaS profitability."
 						imageBuilder={images.courseTestingJS}
 						courseUrl="https://testingjavascript.com"
 					/>

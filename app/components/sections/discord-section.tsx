@@ -13,10 +13,10 @@ function DiscordSection() {
 				</div>
 
 				<H2 className="mt-12">
-					Meet like minded people who face similar challenges.
+				Connect with fellow entrepreneurs who understand your journey.
 				</H2>
 				<H2 variant="secondary" className="mt-8" as="p">
-					Join the discord and get better at building software together.
+				Join the SoloFoundersHub Community on Discord ➔
 				</H2>
 
 				<ArrowLink
@@ -58,7 +58,7 @@ function DiscordSection() {
 					style={{ color: '#006ece' }}
 				>
 					<div className="self-start rounded-full bg-blue-100 px-12 py-6 text-lg">
-						{`Want to learn react together?`}
+						{`Want to start a business together?`}
 					</div>
 					<div className="self-start rounded-full bg-blue-100 px-12 py-6 text-lg">
 						{`Let me know `}

@@ -71,15 +71,15 @@ export const meta: MetaFunction<typeof loader, { root: RootLoaderType }> = ({
 }) => {
 	const requestInfo = matches.find((m) => m.id === 'root')?.data.requestInfo
 	return getSocialMetas({
-		title: 'About Kent C. Dodds',
-		description: 'Get to know Kent C. Dodds',
-		keywords: 'about, kent, kent c. dodds, kent dodds',
+		title: 'About Solo Founders Hub',
+		description: 'Get to know ',
+		keywords: 'about, james, james archers, james m archer',
 		url: getUrl(requestInfo),
 		image: getSocialImageWithPreTitle({
 			url: getDisplayUrl(requestInfo),
 			featuredImage: 'kent/video-stills/snowboard-butter',
 			preTitle: 'Get to know',
-			title: `Kent C. Dodds`,
+			title: `James Archer`,
 		}),
 	})
 }

@@ -53,13 +53,12 @@ function IntroductionSection() {
 			</div>
 			<div className="col-span-full mt-12 lg:col-span-6 lg:col-start-6 lg:mt-0">
 				<H2 id="intro">
-					{`Hi, I'm Kent C. Dodds. I help people make the world better through quality software.`}
+					{`Welcome to SoloFoundersHub. We empower individuals to become successful solopreneurs and build thriving online businesses.`}
 				</H2>
 				<H3 variant="secondary" as="p" className="mt-12">
 					{`
-            I'm also a big extreme sports enthusiast. When I'm not hanging out
-            with my family or at the computer you can find me cruising around on
-            my onewheel or hitting the slopes on my snowboard when it's cold.
+           	 There's an emerging community of solo entrepreneurs who are building successful online businesses such as SaaS's, online directories, newsletters and much more. It's a hard concept to grasp. SoloFoundersHub is your one stop hub that's a community of solo entrepreneurs, and a place to locate all of the useful resources, case studies, insightful blogs, information, courses, and tools. Our courses are comprehensive and curated to various online business models.
+				SoloFoundersHub is a vibrant community here to help you start your journey.
           `}
 				</H3>
 				<ArrowLink
@@ -68,7 +67,7 @@ function IntroductionSection() {
 					className="mt-20"
 					prefetch="intent"
 				>
-					Learn more about me
+					Learn more about SoloFoundersHub
 				</ArrowLink>
 			</div>
 		</Grid>
