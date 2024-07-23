@@ -50,8 +50,8 @@ RUN npx prisma generate
 # app code changes all the time
 ADD . .
 
-ENV SENTRY_ORG="kent-c-dodds-tech-llc"
-ENV SENTRY_PROJECT="kcd-node"
+ENV SENTRY_ORG="solofoundershub"
+ENV SENTRY_PROJECT="solofoundershub-web"
 
 # Mount the secret and set it as an environment variable and run the build
 RUN --mount=type=secret,id=SENTRY_AUTH_TOKEN \
