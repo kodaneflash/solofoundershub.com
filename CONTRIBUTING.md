@@ -291,7 +291,7 @@ ENV PORT="8080"
 
 # TODO: enable litefs
 # COPY --from=flyio/litefs:0.5.10 /usr/local/bin/litefs /usr/local/bin/litefs
-# ADD other/litefs.yml /etc/litefs.yml
+# ADD other/ litefs.yml /etc/litefs.yml
 # RUN mkdir -p /data ${LITEFS_DIR}
 
 # CMD ["litefs", "mount"]
