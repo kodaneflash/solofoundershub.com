@@ -1,4 +1,4 @@
-import { type LoaderFunctionArgs } from '@remix-run/node'
+npm run seedimport { type LoaderFunctionArgs } from '@remix-run/node'
 import { getBlogReadRankings } from '#app/utils/blog.server.ts'
 import { prisma } from '#app/utils/prisma.server.ts'
 
